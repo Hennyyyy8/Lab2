@@ -1,0 +1,22 @@
+.app{
+    text-align: center;
+    padding:20px;
+}
+
+.artist-details{
+    margin:20px;
+    border:1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.artist-list{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    flex-direction: column;
+}
+
+.app > h1 {
+    font-family:Impact;
+}
